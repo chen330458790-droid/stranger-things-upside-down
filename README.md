@@ -1,4 +1,4 @@
-# Upside Down Image Transformer
+# stranger-things-upside-down
 
 将真实照片转换为《怪奇物语》颠倒世界侵入的电影场景。一个包含提示词、视觉参考和成图检查规则的 Codex skill。
 
@@ -36,7 +36,7 @@ Windows 默认目录示例：
 
 也可以补充具体要求，例如保留人物、减少感染强度或调整裂缝数量。Skill 负责组织编辑要求和检查结果；实际图像生成需要会话提供可用的图像编辑工具。
 
-仓库名称是 `upside-down-image-transformer`，安装后的 skill 名称仍为 `stranger-things-upside-down`。
+仓库名称是 `stranger-things-upside-down`，安装后的 skill 名称仍为 `stranger-things-upside-down`。
 
 ## 文件
 
